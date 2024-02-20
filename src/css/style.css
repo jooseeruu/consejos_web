@@ -1,0 +1,7 @@
+.nav-item a:hover {
+  transform: scale(1.1);
+  transition: all 0.2s ease-in-out;
+}
+body {
+  background: linear-gradient(to right, #1fa2ff, #12d8fa, #ffc107);
+}
